@@ -2,7 +2,7 @@
 
 ## Description
 This sketch shows a "random data" animation on the MicroView display so it looks like an old TV screen disconnected from the antenna:
-![TV-Screen for MicroView example](https://github.com/SebiTimeWaster/TV-Screen-for-MicroView/blob/master/TV_snow_example.jpg)
+![TV-Screen for MicroView example](https://github.com/SebiTimeWaster/TV-Screen-for-MicroView/blob/master/snow_example.jpg)
 
 ## Required Libraries
 [MicroView Library](https://github.com/geekammo/MicroView-Arduino-Library/)
