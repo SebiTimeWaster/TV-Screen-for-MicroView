@@ -1,4 +1,4 @@
-# TV-Screen for MicroView
+# TV Screen for MicroView
 
 ## Description
 This sketch shows a "random data" animation on the MicroView display so it looks like an old TV screen disconnected from the antenna:
