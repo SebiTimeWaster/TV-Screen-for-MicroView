@@ -7,9 +7,6 @@ This sketch shows a "random data" animation on the MicroView display so it looks
 ## Required Libraries
 [MicroView Library](https://github.com/geekammo/MicroView-Arduino-Library/)
 
-#### BE AWARE:
-This sketch makes use of a pull request to the MicroView Library that is not yet merged ([Added possibility to write an arbitrary screen buffer to display #16](https://github.com/geekammo/MicroView-Arduino-Library/pull/16)), you have to apply this pull request yourself for now.
-
 ## Installation
 Open your console and do:
 
