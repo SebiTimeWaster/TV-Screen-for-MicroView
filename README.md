@@ -1,7 +1,7 @@
 # TV-Screen-for-MicroView
 
 ## Description
-This sketch shows random data (Snow) on the MicroView display so it looks like an old TV disconnected from the antenna.
+This sketch shows random data (Snow) on the MicroView display so it looks like an old TV screen disconnected from the antenna.
 
 ## Required Libraries
 [MicroView Library](https://github.com/geekammo/MicroView-Arduino-Library/)
