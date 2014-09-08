@@ -8,8 +8,7 @@
 		for (var x = 0; x < 64; x++) {
 			stripe += "0x" + hex[Math.floor(Math.random() * 16)] + hex[Math.floor(Math.random() * 16)] + ","
 		}
-		stripe = "{" + stripe.substr(0, stripe.length - 1) + "},";
-        content += stripe;
+        content += "{" + stripe.substr(0, stripe.length - 1) + "},";
 	}
 
 	document.write("{" + content.substr(0, content.length - 1) + "}");
