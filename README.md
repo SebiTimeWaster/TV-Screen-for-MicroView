@@ -8,7 +8,9 @@ This sketch shows a "random data" animation on the MicroView display so it looks
 [MicroView Library](https://github.com/geekammo/MicroView-Arduino-Library/)
 
 ## Installation
-Either [download it as a zip](https://github.com/SebiTimeWaster/TV-Screen-for-MicroView/releases) or open your console and do ```git clone https://github.com/SebiTimeWaster/TV-Screen-for-MicroView.git```. Then simply open "TV-Screen-for-MicroView.ino" in the Arduino IDE and click upload.
+Either [download it as a zip](https://github.com/SebiTimeWaster/TV-Screen-for-MicroView/releases) or open your console and do ```git clone https://github.com/SebiTimeWaster/TV-Screen-for-MicroView.git```.
+
+Now open "TV-Screen-for-MicroView.ino" in the Arduino IDE and click upload.
 
 ## Create new random data
 The random data shown on the display is predefined in PROGMEM (Line 7 in the sketch).
